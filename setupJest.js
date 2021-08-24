@@ -1,7 +1,7 @@
 'use strict';
 
-require('core-js/es6/reflect');
-require('core-js/es7/reflect');
+require('core-js/es/reflect');
+require('core-js/proposals/reflect-metadata');
 require('zone.js/dist/zone.js');
 require('zone.js/dist/proxy.js');
 require('zone.js/dist/sync-test');
